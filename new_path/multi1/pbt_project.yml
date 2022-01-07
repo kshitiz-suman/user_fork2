@@ -13,5 +13,15 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+  workflows/user2_work121:
+    name: user2_work121
+    description: null
+    author: kshitiz+1@prophecy.io
+    mode: batch
+    language: scala
+    createdAt: '2022-01-07 14:42:24'
+    datasets:
+      inputs: []
+      outputs: []
 datasets: {}
 schedules: {}
